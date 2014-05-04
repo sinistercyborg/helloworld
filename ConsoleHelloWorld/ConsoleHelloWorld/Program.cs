@@ -10,7 +10,7 @@ namespace ConsoleHelloWorld
     {
         static void Main(string[] args)
         {
-            testing again
+            testing again, now that's something!'
         }
     }
 }
